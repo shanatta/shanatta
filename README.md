@@ -1,3 +1,6 @@
+<h1 align="center">Natalia</h1>
+<h4 align="center">Back-end Developer <a href="/">|</a> Graphic Designer<a href="/"></h4>
+
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Shanatta/nata/main/kaori.gif">
 </div>
