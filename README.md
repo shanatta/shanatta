@@ -4,9 +4,6 @@
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Shanatta/nata/main/kaori.gif">
 </div>
-
-<br>
-<br>
 	
 ### About
 - My name is Natalia. You can call me Nat or anything you want
