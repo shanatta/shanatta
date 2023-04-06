@@ -15,15 +15,13 @@
  <summary><b>More Info</b></summary>
 
 ### What I Learned
-![Languages](https://skillicons.dev/icons?i=python,go,html,c++,java,vercel)
+![Languages](https://skillicons.dev/icons?i=python,django,html,boootstrap,cpp,go,java,vercel)
 		
 ### Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=Shanatta&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanatta&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shanatta&theme=dark&hide_border=true)<br/>
  </details>
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	
 <div align="center">
@@ -31,5 +29,5 @@
    <br>
    <br>
     <a href="github.com/Shanatta" >-- Shan --</a>
- </div>
-
+ </div> 
+	
