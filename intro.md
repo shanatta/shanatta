@@ -20,7 +20,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Shanatta&show_icons=true)
 <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?Shanatta=Bgstatic&theme=react&line_height=40&hide=css"/>
     </a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
