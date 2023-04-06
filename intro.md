@@ -15,6 +15,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![C++](https://img.shields.io/badge/-Go-000?&logo=C++)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
