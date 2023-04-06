@@ -11,6 +11,8 @@
 - My name is Natalia. You can call me Nat or anything you want
 - I am a student majoring in Software Engineering
 - Weeaboo, ghibli addict
+	
+ [![](https://visitcount.itsvg.in/api?id=Rekun-dev&label=Github%20views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
  <summary><b>More Info</b></summary>
