@@ -12,16 +12,20 @@
 - I am a student majoring in Software Engineering
 - Weeaboo, ghibli addict
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Languages
+	<details>
+ <summary><b>Apa</b></summary>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+### Languages:
+![Languages](https://skillicons.dev/icons?i=python,php,laravel,nodejs,express,js,cpp,html,css,tailwindcss,react,vercel,mysql,git,github)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		
+### Stats:
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Shanatta&show_icons=true)
-<a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanatta&theme=react&line_height=40&hide=css"/>
-    </a>
+![](https://github-readme-stats.vercel.app/api?username=Shanatta-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanatta-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shanatta-dev&theme=dark&hide_border=true)<br/>
+ </details>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
