@@ -15,8 +15,6 @@
 <div align="center">
   <h1>yoroshiku!!</h1> 
  
-   <br>
-   <br>
     <a href="github.com/Shanatta" >-- Shan --</a>
  </div>
 
