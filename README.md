@@ -7,8 +7,8 @@
 
 <br>
 <br>
+	
 ### About
-
 - My name is Natalia. You can call me Nat or anything you want
 - I am a student majoring in Software Engineering
 - Weeaboo, ghibli addict
