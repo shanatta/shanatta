@@ -9,13 +9,13 @@
 - My name is Natalia. You can call me Nat or anything you want
 - I am a student majoring in Software Engineering
 - Weeaboo, ghibli addict
-	
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	
 <details>
  <summary><b>More Info</b></summary>
 
 ### What I Learned
-![Languages](https://skillicons.dev/icons?i=python,html,vercel)
+![Languages](https://skillicons.dev/icons?i=python,go,html,c++,java,vercel)
 		
 ### Stats:
 
