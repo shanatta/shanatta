@@ -15,7 +15,7 @@
 	<details>
  <summary><b>Apa</b></summary>
 
-### Languages:
+### What I Learned
 ![Languages](https://skillicons.dev/icons?i=python,html,vercel)
 
 
