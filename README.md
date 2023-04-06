@@ -16,7 +16,7 @@
  <summary><b>Apa</b></summary>
 
 ### Languages:
-![Languages](https://skillicons.dev/icons?i=python,php,laravel,nodejs,express,js,cpp,html,css,tailwindcss,react,vercel,mysql,git,github)
+![Languages](https://skillicons.dev/icons?i=python,html,vercel)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
