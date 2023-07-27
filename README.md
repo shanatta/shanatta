@@ -15,7 +15,7 @@
  <summary><b>More Info</b></summary>
 
 ### What I Learned
-![Languages](https://skillicons.dev/icons?i=python,django,html,bootstrap,cpp,go,java,vercel)
+![Languages](https://skillicons.dev/icons?i=python,django,html,bootstrap,java,php,laravel,cpp,go,vercel)
 		
 ### Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shanatta&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
