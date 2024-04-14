@@ -27,5 +27,5 @@
   <h1>Yoroshiku!!!!</h1> 
    <br>
    <br>
-    <a href="github.com/shanatta" >-- Shan --</a>
+    <a href="https://github.com/shanatta" >-- Shan --</a>
  </div> 
